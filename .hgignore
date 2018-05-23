@@ -1,0 +1,5 @@
+syntax: glob
+bin/*
+CMakeLists.txt.user
+build/*
+obj/*
